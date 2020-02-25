@@ -1,2 +1,2 @@
 # HMM-VITERBI-CODE-IN-PYTHON
-This contains code to implement viterbi algorithm in python.
+This contains a python code to implement viterbi algorithm in python.
